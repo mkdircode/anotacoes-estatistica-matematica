@@ -1,6 +1,3 @@
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}) 
-
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
 Resumão:
 
@@ -14,7 +11,10 @@ Resumão:
 $$
 n \geq p
 $$
+
+\[\inline https://latex.codecogs.com/svg.image?\inline \bg{white}n\geq p\]
 .
+
 $$
 \binom {n}{p} = \frac {n!}{p! (n - p)!}  
 
