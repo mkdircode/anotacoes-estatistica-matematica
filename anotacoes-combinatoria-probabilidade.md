@@ -10,20 +10,14 @@ Resumão:
 
 $$
 n \geq p
-
-
-
-
 $$
-
+.
 $$
 \binom {n}{p} = \frac {n!}{p! (n - p)!}  
 
 
-
-
 $$
-
+.
 dá result 1 qd: (p = 0 ) ou (n = p)
 
 Triângulo Pascal aux cálc Combinações, achar Coeficientes binomiais
