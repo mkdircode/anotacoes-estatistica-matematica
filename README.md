@@ -1,1 +1,1 @@
-- anotacões e resumos do curso de Estatística
+:game_die: anotacões e resumos do curso de Estatística
