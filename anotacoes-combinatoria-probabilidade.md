@@ -12,7 +12,7 @@ $$
 n \geq p
 $$
 
-![](https://latex.codecogs.com/svg.image?n&space;\geq&space;&space;p)
+![](https://latex.codecogs.com/svg.image?\bg{white}{\color{Red}&space;n&space;\geq&space;p})
 
 .
 
