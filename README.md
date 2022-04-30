@@ -1,1 +1,1 @@
-# anotacoes-estatistica-matematica
+- anotacões e resumos do curso de Estatística
